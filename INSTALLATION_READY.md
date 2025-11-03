@@ -82,7 +82,7 @@ git push origin main
 ```bash
 # On a Raspberry Pi with fresh Raspberry Pi OS:
 cd /tmp
-git clone https://github.com/Opentab1/thefinale2.git
+git clone https://github.com/Opentab1/injesusnamewepray2.git
 cd thefinale2
 sudo ./install.sh
 ```

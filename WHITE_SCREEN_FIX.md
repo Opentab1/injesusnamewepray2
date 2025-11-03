@@ -106,7 +106,7 @@ If you re-flash your Pi and run the installation again, this issue won't occur.
 - 📖 Full troubleshooting guide: [TROUBLESHOOTING.md](TROUBLESHOOTING.md)
 - 🚀 Quick start guide: [QUICKSTART.md](QUICKSTART.md)
 - 📘 Full documentation: [README.md](README.md)
-- 🐛 Report issues: [GitHub Issues](https://github.com/Opentab1/thefinale2/issues)
+- 🐛 Report issues: [GitHub Issues](https://github.com/Opentab1/injesusnamewepray2/issues)
 
 ## Prevention for Next Time
 
