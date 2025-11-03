@@ -121,7 +121,7 @@ if [ -f "./requirements.txt" ] && [ -d "./services/systemd" ] && [ -d "./dashboa
 - ✅ The installer detects the missing directories
 - ✅ It will skip using local files and clone from GitHub instead:
   ```bash
-  git clone https://github.com/Opentab1/thefinale2.git "$INSTALL_DIR"
+  git clone https://github.com/Opentab1/injesusnamewepray2.git "$INSTALL_DIR"
   ```
 - ✅ This is actually the **CORRECT** approach for installation
 
@@ -266,8 +266,8 @@ tar -czf ~/pulse-backup-$(date +%Y%m%d).tar.gz .
 
 # Clone complete repository
 cd /tmp
-git clone https://github.com/Opentab1/thefinale2.git
-cd thefinale2
+git clone https://github.com/Opentab1/injesusnamewepray2.git
+cd injesusnamewepray2
 
 # Verify structure
 ls -la services/

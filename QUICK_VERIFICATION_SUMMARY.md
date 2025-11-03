@@ -74,7 +74,7 @@ This auto-detects missing files and clones complete repo.
 ### Option B: Re-clone Complete Repository
 ```bash
 cd /tmp
-git clone https://github.com/Opentab1/thefinale2.git
+git clone https://github.com/Opentab1/injesusnamewepray2.git
 # Then verify services/ and dashboard/ directories exist
 ```
 

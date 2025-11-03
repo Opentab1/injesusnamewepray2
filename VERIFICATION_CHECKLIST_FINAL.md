@@ -182,7 +182,7 @@ cd /workspace
 tar -czf ~/workspace-backup-$(date +%Y%m%d-%H%M).tar.gz .
 
 # Clone complete repo
-git clone https://github.com/Opentab1/thefinale2.git /tmp/pulse-complete
+git clone https://github.com/Opentab1/injesusnamewepray2.git /tmp/pulse-complete
 cd /tmp/pulse-complete
 
 # Verify structure
